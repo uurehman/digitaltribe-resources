@@ -1,4 +1,4 @@
-$(function(){
+$( document ).ready(function(){
 	var images = ['#picOne', '#pictwo', '#picthree', '#picfour'],
 	parent = $('#followers');
 	fadeInAndShake(['#picdigitri'],$('#digitri'));
