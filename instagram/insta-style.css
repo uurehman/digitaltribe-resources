@@ -1,7 +1,20 @@
 @media(min-width: 780px){
 
 .background-lines{
-	background: url(https://uurehman.github.io/digitaltribe-resources/instagram/bg.svg) #fdfdfd;
+	background: url(bg.svg) #fdfdfd;
 	background-size: cover;
 	background-size: 100%;
 }
+#first-animate{
+	margin-top:12%
+
+}
+#followers{
+	
+	margin-top: 9%
+}
+#followers img{
+	padding: 0%;
+	
+}
+
