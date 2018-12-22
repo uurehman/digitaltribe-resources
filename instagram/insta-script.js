@@ -1,5 +1,5 @@
 $(document).ready(function(){
-	var images = ['#picOne', '#pictwo', '#picthree', '#picfour'],
+	var images = ['#picone', '#pictwo', '#picthree', '#picfour', '#picfive'],
 	parent = $('#followers');
 	fadeInAndShake(['#picdigitri'],$('#digitri'));
 	fadeInAndBounce(images,parent);
@@ -7,7 +7,7 @@ $(document).ready(function(){
 function fadeInAndBounce(images, parent){
 	(function nextImage(){
 		var imgs = images.slice();
-		for(var i=0; i<4; i++){
+		for(var i=0; i<5; i++){
 			parent.append(
 				$(imgs.splice(0, 1)[0]).hide().delay(1000*i+1500).fadeIn(1000).effect('bounce',{times:1},2000)
 			);
