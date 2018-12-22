@@ -1,5 +1,4 @@
 $(document).ready(function(){
-	console.log("Hi ubaid!");
 	var images = ['#picOne', '#pictwo', '#picthree', '#picfour'],
 	parent = $('#followers');
 	fadeInAndShake(['#picdigitri'],$('#digitri'));
@@ -20,7 +19,7 @@ function fadeInAndShake(images, parent){
 		var imgs = images.slice();
 		for(var i=0; i<5; i++){
 			parent.append(
-				$(imgs.splice(0, 1)[0]).hide().delay(1000*i+500).fadeIn(1000).effect('bounce',{times:5},6200).delay(4500-(1000*i))
+				$(imgs.splice(0, 1)[0]).hide().delay(1000*i+500).fadeIn(1000).effect('bounce',{times:4},6200).delay(4500-(1000*i))
 			);
 		}
 	})();
