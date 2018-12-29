@@ -10,11 +10,10 @@ Author URI: http://bootstrapthemes.co
 
 
 body {
-	color: #767676;
+	color: #555555;
 	-webkit-font-smoothing: antialiased;
 	width: 100%;
 	font-size:15px;
-	font-family: 'Merriweather', serif;	
 }
 
 
@@ -75,8 +74,7 @@ input[type="color"],
 }
 .form-control {
 	border: 0px solid transparent;
-	font-size: 16px;
-	font-family: 'Merriweather', serif;	
+	font-size: 16px;	
 	height: 45px;
 	border-bottom:1px solid #ddd;
 	background-color: rgba(255, 255, 255, 0);
@@ -94,13 +92,12 @@ p {
 	font: normal 16px "Myriad Pro", arial, sans-serif;
 }
 
-h1,h2,h3,h4,h5,h6 { color: #767676;}
+h1,h2,h3,h4,h5,h6 { color: #333333;}
 
 h1 {
 	font-size: 48px;
 	line-height: 50px;
 	font-weight: 600;
-	font-family: 'Merriweather', serif;
 	text-transform: uppercase;
 }
 
@@ -108,7 +105,6 @@ h2 {
 	font-size: 40px;
 	line-height: 38px;
 	font-weight: 600;
-	font-family: 'Merriweather', serif;
 	margin: 0;
 }
 
@@ -116,7 +112,6 @@ h3 {
 	font-size: 30px;
 	line-height: 32px;
 	font-weight: 600;
-	font-family: "Myriad Pro" , sans-serif;
 	text-transform: uppercase;
 	margin: 0;
 }
@@ -126,7 +121,6 @@ h4 {
 	font-size: 24px;
 	line-height: 26px;
 	font-weight: 600;
-	font-family: "Myriad Pro" , sans-serif;
 	text-transform: uppercase;
 	}
 
@@ -134,7 +128,6 @@ h5 {
 	font-size: 20px;
 	line-height: 22px;
 	font-weight: 600;
-	font-family: "Myriad Pro" , sans-serif;
 	text-transform: uppercase;
 	margin: 0;
 	text-decoration: none;
@@ -144,7 +137,6 @@ h6 {
 	font-size: 18px;
 	line-height: 20px;
 	font-weight: 600;
-	font-family: "Myriad Pro" , sans-serif;
 	text-transform: uppercase;
 	margin: 0;
 	text-decoration: none;
@@ -158,26 +150,11 @@ ul{
 a:hover{
 	text-decoration:none;
 }
-.btn {
-	border: 1px solid #3c3c3c;
-	display: inline-block;
-	min-width: 100px;
-	padding: .9em;
-	height: 50px;
-	text-align: center;
-	color: #3c3c3c;
-	font-style: normal;
-	letter-spacing: 1px;
-	margin: 0;
-	font-size: 16px;
-	font-weight: 300;
-	border-radius:0;
-	margin-top:30px;
-}
-.btn:hover {
-	background-color: transparent;
-	color: #000;
-	text-decoration: none;
+
+p.section-description{
+	font-size:20px;
+	font-weight:300;
+	text-align:center;
 }
 
 .pink-btn {
@@ -229,7 +206,7 @@ a:hover{
 }
 
 .banner .scroll_btn:hover {
-	background: url(../images/scroll.gif) 50% 50% no-repeat #f3c30f;
+	background: url(../images/scroll.gif) 50% 50% no-repeat #64C08A;
 	opacity: .85;
 	-moz-opacity: .85;
 	-o-opacity: .85;
@@ -243,59 +220,10 @@ a:hover{
 
 
 
-/* navbar section */
-.menu-scroll {
-    padding-top: 0px;
-    padding-bottom: 0px;
-    position: fixed;
-    top: 0; 
-	left: 0; 
-	right: 0; 
-	z-index: 300;
-    box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
-    -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, .175);
-    background-color: #fff;
-	height:80px;
-	
-}
-.main_menu_bg{
-	margin-top:0px;
-}
-.main_menu_bg .navbar-default {
-    background-color: transparent; 
-    border-color: transparent; 
-	transition:.6s;
-}
-.container-fluid {
-    margin-top: 20px;
-}
-.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus{
-	color:#3c3c3c;
-}
-.main_menu_bg .navbar {
-    margin-bottom:0px;
-}
-.main_menu_bg .navbar-default .navbar-nav>.active>a{
-	border:1px solid transparent;
-}
-.main_menu_bg .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus{
-	color:#3c3c3c;
-	background-color:transparent;
-	border:1px solid #666;
-	text-transform:uppercase;
-}
-
-.main_menu_bg .navbar-nav>li>a{
-	padding-top:10px;
-	padding-bottom:10px;
-}
-
-
-
 /* Banner section */
 
 .banner{
-	background:url(../images/bannerbg.jpg) no-repeat;
+	background: #A9D9BC;
 	position:relative;
 	background-size:cover;
 }
@@ -305,17 +233,21 @@ a:hover{
 	overflow:hidden;
 }
 
-.single_banner_text p{
+.single_banner_text{
 	font-size:40px;
-	color:#3c3c3c;
+	color:#FFFFFF;
+	text-shadow: 0px 0px 30px #777;
 }
 
+img.digital-tribe-big-icon {
+	margin-top: -250px;
+}
 
 
 
 /* features section */
 .features{
-	background:#f3c30f;
+	background:#64C08A;
 }
 
 .sinle_features{
@@ -388,19 +320,8 @@ a:hover{
 /* Abouts Section */
 .head_title{
 	padding-bottom:50px;
+	color:#40DD92!important;
 }
-.abouts{
-	background:#ddd;
-}
-
-.single_abouts p{
-	font-size:30px;
-	font-weight:300;
-	text-align:center;
-	font-family: 'Merriweather', serif;
-}
-.signature_img{}
-
 
 /* Menus Section */
 .main_menus{
