@@ -246,6 +246,8 @@ p.section-description{
 
 img.digital-tribe-big-icon {
 	margin-top: -250px;
+	max-width: 30vw;
+	max-height: 480px;
 	height: 75vh;
 	width: auto;
 }
