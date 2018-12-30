@@ -186,7 +186,7 @@ p.section-description{
 }
 
 .banner .scroll_btn {
-	background: url(../images/scroll.gif) 50% 50% no-repeat rgba(215, 181 ,94, 0);
+	background: url(../images/scroll.gif) 50% 50% no-repeat;
 	border: 2px solid #fff;
 	border-radius: 50%;
 	-moz-border-radius: 50%;
@@ -206,7 +206,7 @@ p.section-description{
 }
 
 .banner .scroll_btn:hover {
-	background: url(../images/scroll.gif) 50% 50% no-repeat #64C08A;
+	background: url(../images/scroll.gif) 50% 50% no-repeat #333;
 	opacity: .85;
 	-moz-opacity: .85;
 	-o-opacity: .85;
@@ -283,16 +283,14 @@ img.digital-tribe-big-icon {
 	border-radius: 3px;
 	transform: scale( 1.02, 1.08 );
 	position: absolute;
-	background: #f00;
-	background: linear-gradient( 90deg, #fafafa, #fafafa, #1D8EF7, #fafafa, #fafafa );
 	background-position: 55px 0;
 	top: 0;
-	animation: linear 1s infinite linear;
+	animation: linear 1.5s infinite linear;
 	left: 0;
 	z-index: -1;
 }
 .biliboard.electronic:before { /*#fdf497  #fd5949  #d6249f  #285AEB   64C08A*/
-	background: radial-gradient( #64C08A, #64C08A, #64C08A, #64C08A, #64C08A, #64C08A ) no-repeat;
+	background: radial-gradient( #fff, #fff ) no-repeat;
 	background-size: 150px 50px;
 	animation: electronic 2s infinite linear;
 }
@@ -301,11 +299,17 @@ img.digital-tribe-big-icon {
 	background: transparent;
 	font-weight: 600;
 	font-size: 25px;
-	color: #333;
-	background: #E2FFEA;
+	color: #E2FFEA;
+	background: #333;
 	border-radius: 5px;
 	-moz-border-radius: 5px;
 	-webkit-border-radius: 5px;
+}
+.make-a-call-btn a:hover{
+	opacity: .85;
+	-moz-opacity: .85;
+	-o-opacity: .85;
+	-webkit-opacity: .85;
 }
 
 .single_special_overlay{
@@ -335,9 +339,6 @@ img.digital-tribe-big-icon {
 	font-weight:300;
 	margin-top:20px;
 }
-
-
-
 
 
 /* Contact Section */
