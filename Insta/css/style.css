@@ -223,7 +223,6 @@ p.section-description{
 /* Banner section */
 
 .banner{
-	/*background:  #A9D9BC;*/
 	background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%) #d6249f;
 	position:relative;
 }
@@ -242,6 +241,7 @@ p.section-description{
 .background-logo {
 	z-index: -321;
 	opacity: 0.2;
+
 }
 
 img.digital-tribe-big-icon {
@@ -259,6 +259,53 @@ img.digital-tribe-big-icon {
 
 .make-a-call-btn{
 	z-index: 321;
+}
+@keyframes linear {
+	from {background-position: 0 0;}
+	to {background-position: 200px 0;}	
+}
+@keyframes electronic {
+	0%, 100% {background-position: 20px -30px;}
+	25% {background-position: 150px 5px;}
+	50% {background-position: 20px 40px;}
+	75% {background-position: -100px 5px;}
+}
+.biliboard {
+	padding: 20px;
+	text-align: center;
+	position: relative;
+}
+.biliboard:before {
+	content: '';
+	display: block;
+	height: 100%;
+	width: 100%;
+	border-radius: 3px;
+	transform: scale( 1.02, 1.08 );
+	position: absolute;
+	background: #f00;
+	background: linear-gradient( 90deg, #fafafa, #fafafa, #1D8EF7, #fafafa, #fafafa );
+	background-position: 55px 0;
+	top: 0;
+	animation: linear 1s infinite linear;
+	left: 0;
+	z-index: -1;
+}
+.biliboard.electronic:before { /*#fdf497  #fd5949  #d6249f  #285AEB   64C08A*/
+	background: radial-gradient( #64C08A, #64C08A, #64C08A, #64C08A, #64C08A, #64C08A ) no-repeat;
+	background-size: 150px 50px;
+	animation: electronic 2s infinite linear;
+}
+
+.make-a-call-btn a{
+	background: transparent;
+	font-weight: 600;
+	font-size: 25px;
+	color: #333;
+	background: #E2FFEA;
+	border-radius: 5px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
 }
 
 .single_special_overlay{
@@ -290,11 +337,6 @@ img.digital-tribe-big-icon {
 }
 
 
-/* Abouts Section */
-.head_title{
-	padding-bottom:50px;
-	color:#40DD92!important;
-}
 
 
 
