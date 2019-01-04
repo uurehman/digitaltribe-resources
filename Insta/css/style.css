@@ -13,7 +13,6 @@ body {
 	color: #555555;
 	-webkit-font-smoothing: antialiased;
 	width: 100%;
-	font-size:15px;
 }
 
 
@@ -89,23 +88,23 @@ input[type="color"],
 	box-shadow: none;
 }
 p {
-	font: normal 16px "Myriad Pro", arial, sans-serif;
+	font: 10px;
+	font-weight: 400;
+	padding: 10px 0px; 
 }
 
 h1,h2,h3,h4,h5,h6 { color: #333333;}
 
 h1 {
-	font-size: 48px;
-	line-height: 50px;
 	font-weight: 600;
 	text-transform: uppercase;
 }
 
 h2 {
-	font-size: 40px;
-	line-height: 38px;
-	font-weight: 600;
+	font-size: 20px;
+	font-weight: 500;
 	margin: 0;
+	text-transform: uppercase;
 }
 
 h3 {
@@ -151,10 +150,8 @@ a:hover{
 	text-decoration:none;
 }
 
-p.section-description{
-	font-size:20px;
-	font-weight:300;
-	text-align:center;
+.section-description{
+	text-align:left;
 }
 
 .pink-btn {
@@ -174,7 +171,7 @@ p.section-description{
     padding-bottom: 80px;
     position: relative;
     overflow: hidden;
-	
+    min-height: 100vh;	
 }
 .separetor{
 	background:url(../images/spr.png) no-repeat center center;
@@ -335,11 +332,9 @@ img.digital-tribe-big-icon {
 }
 .single_special_overlay p{
 	color:#666;
-	font-size:16px;
 	font-weight:300;
 	margin-top:20px;
 }
-
 
 /* Contact Section */
 
