@@ -6,18 +6,12 @@
 <g>
 	
 		<rect id="back-col-2" x="754.056" y="152.5" fill="#EBFFF5" stroke="#40DD92" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="859" height="1582">
-			<animate attributeType="CSS" attributeName="opacity" 
-			 from="1" to="0" dur="1s" begin="0.5" repeatCount="indefinite" />
 		</rect>
 	
 		<rect id="back-col-3" x="762.056" y="152.5" fill="#CAFFE3" stroke="#D9F8E9" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="295" height="1563">
-			<animate attributeType="CSS" attributeName="opacity" 
-			 from="1" to="0" dur="1.2s" begin="0.4" repeatCount="indefinite" />
 		</rect>
 	
 		<rect id="back-col-1" x="1307.056" y="162.5" fill="#CAFFE3" stroke="#D9F8E9" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="295" height="1563">
-			<animate attributeType="CSS" attributeName="opacity" 
-			 from="1" to="0" dur="1.3s" begin="0.3" repeatCount="indefinite" />
 		</rect>
 	<g id="lines_1_">
 		<path fill="none" stroke="#40DD92" stroke-width="10" stroke-miterlimit="10" d="M1647.556,311c0,0-81,36-120,55"/>
@@ -147,9 +141,9 @@
 					c0,0-2.324,11.834,11.931,41.499c0,0,61.616-8.232,104.639,48.478c0,0,0.703-70.836,52.891-104.611
 					c0,0-4.952-28.215-15.554-38.716c0,0-68.27,23.955-53.364,94.183C1203.792,953.736,1170.141,892.519,1103.249,912.903z"/>
 			</g>
-		</g>
+		</g><!-- 
 		<animate attributeType="CSS" attributeName="opacity" 
-		 from="1" to="0" dur="1.2s" begin="0.2" repeatCount="indefinite" />
+		 from="1" to="0" dur="1.2s" begin="0.2" repeatCount="indefinite" /> -->
 	</g>
 	<g id="patel_3_">
 		<g>

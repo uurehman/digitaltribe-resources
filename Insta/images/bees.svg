@@ -25,8 +25,6 @@
 				c0,0-8.914-7.519-40.683-9.392c0,0-21.961,55.954-90.098,65.708c0,0,59.555,33.843,63.613,93.816c0,0,26.177,9.057,40.031,5.023
 				c0,0,11.792-68.959-54.575-89.321C768.044,2157.668,835.591,2157.953,849.756,2091.835z"/>
 		</g>
-		<animate attributeType="CSS" attributeName="opacity" 
-		 from="1" to="0" dur="1.5s" begin="0.5" repeatCount="indefinite" />
 	</g>
 	<g id="patel-5">
 		<g>
@@ -45,8 +43,6 @@
 					c0,0,23.128-68.828,12.229-105.049c0,0-181.035-29.298-232.856,145.143C556.025,1663.814,555.192,1486.75,381.548,1451.166z"/>
 			</g>
 		</g>
-		<animate attributeType="CSS" attributeName="opacity" 
-		 from="1" to="0" dur="2s" begin="1" repeatCount="indefinite" />
 	</g>
 	<g id="patel-4">
 		<g>
@@ -62,8 +58,6 @@
 				c0,0-2.205,12.324,13.111,42.865c0,0,63.81-9.625,109.459,48.484c0,0-0.512-73.537,53.065-109.508
 				c0,0-5.634-29.198-16.823-39.912c0,0-70.441,26.06-53.739,98.692C287.868,715.102,251.868,652.153,182.795,674.482z"/>
 		</g>
-		<animate attributeType="CSS" attributeName="opacity" 
-		 from="1" to="0" dur="1.8s" begin="1.5" repeatCount="indefinite" />
 	</g>
 	<g id="patel-3">
 		<g>
@@ -80,8 +74,6 @@
 				c0,0-8.13,4.155-19.11,26.521c0,0,33.734,32.812,20.123,84.952c0,0,42.48-32.733,87.001-17.484c0,0,14.471-16.151,15.758-27.374
 				c0,0-46.204-29.413-81.017,12.323C133.825,157.009,154.503,108.337,111.069,78.072z"/>
 		</g>
-		<animate attributeType="CSS" attributeName="opacity" 
-		 from="1" to="0" dur="1.6s" begin="2" repeatCount="indefinite" />
 	</g>
 	<g id="patel-2">
 		<g>
@@ -98,8 +90,6 @@
 				c0,0-1.349-10.087-20.327-29.785c0,0-45.659,23.707-94.189-9.563c0,0,18.335,56.703-13.194,98.163c0,0,11.366,21.13,22.4,26.557
 				c0,0,46.636-38.1,16.341-89.976C700.417,70.352,742.869,109.824,789.387,74.955z"/>
 		</g>
-		<animate attributeType="CSS" attributeName="opacity" 
-		 from="1" to="0" dur="1.9s" begin="2.5" repeatCount="indefinite" />
 	</g>
 	<g id="patel-1">
 		<g>
@@ -115,8 +105,6 @@
 				c0,0-0.112-7.146-12.031-22.582c0,0-34.698,12.367-66.625-15.199c0,0,8.325,41.144-17.76,67.153c0,0,6.348,15.743,13.788,20.522
 				c0,0,36.616-22.3,19.32-61.167C1194.848,328.528,1221.899,359.861,1258.157,339.8z"/>
 		</g>
-		<animate attributeType="CSS" attributeName="opacity" 
-		 from="1" to="0" dur="1.4s" begin="3" repeatCount="indefinite" />
 		<!-- <animateTransform 
 			attributeName="transform" 
 			attributeType="XML"
@@ -147,9 +135,9 @@
 			attributeName="transform"
 			attributeType="XML"
 			type="translate"
-			values="0,0; -90,-60; 100,-70; 110,65; -90,60; 0,0;"
+			values="0,0; -35,-25; 40,-25; 32,20; -35,0; 0,0;"
 			begin="0.5"
-			dur="3s"
+			dur="4s"
 			repeatCount="indefinite"
 		/>
 	</g>
@@ -172,9 +160,9 @@
 			attributeName="transform"
 			attributeType="XML"
 			type="translate"
-			values="0,60; -10,-30; -90,85; 100,90; 90,-35; 0,60;"
+			values="0,0; -20,25; 25,20; 45,30; 25,10; 0,0;"
 			begin="0"
-			dur="3s"
+			dur="4.5s"
 			repeatCount="indefinite"
 		/>
 	</g>

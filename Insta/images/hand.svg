@@ -383,12 +383,12 @@
 				<circle fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="1107.506" cy="1943.393" r="22.181"/>
 			<animate id="animation1"
 			 attributeName="opacity"
-			 from="0" to="1" dur="2s"
-			 begin="0s;animation2.end" />
+			 from="0" to="1" dur="0.5s"
+			 begin="0s;animation2.end+2s" />
 			<animate id="animation2"
 			 attributeName="opacity"
-			 from="1" to="0" dur="2s" 
-			 begin="animation1.end" />
+			 from="1" to="0" dur="0.5s" 
+			 begin="animation1.end+2s" />
 		</g>
 	</g>
 </g>

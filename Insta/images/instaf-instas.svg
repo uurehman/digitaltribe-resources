@@ -31,18 +31,8 @@
 				l97.444-97.444c32.502-32.502,85.686-32.502,118.188,0l97.444,97.444C461.628,383.884,461.628,437.068,429.126,469.57z"/>
 				<circle fill="#FFFFFF" stroke="#40DD92" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="272.588" cy="276.429" r="19.646"/>
 			<g id="instas-inner">
-				
-					<circle fill="#FFFFFF" stroke="#40DD92" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="272.588" cy="410.476" r="83.87"/>
-				
-					<animate id="showInner"
-					 attributeName="opacity"
-					 from="0" to="1" dur="0.5s"
-					 begin="0s;hideInner.end" />
-					<animate id="hideInner"
-					 attributeName="opacity"
-					 from="1" to="0" dur="0.5s" 
-					 begin="showInner.end" />
-					</g>
+				<circle fill="#FFFFFF" stroke="#40DD92" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="272.588" cy="410.476" r="83.87"/>
+			</g>
 			
 				<path fill="#99FFCC" stroke="#40DD92" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 				M535.608,209.648c-0.003-4.758-1.807-9.52-5.417-13.13c-7.221-7.221-19.039-7.221-26.26,0l-51.916,51.916l-68.427-68.427
@@ -103,8 +93,10 @@
 				<path fill="#99FFCC" stroke="#40DD92" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 				M765.96,572.817l-56.793,56.793c-16.565,16.565-43.671,16.565-60.235,0l-56.793-56.793c-16.565-16.565-16.565-43.671,0-60.235
 				l56.793-56.793c16.565-16.565,43.671-16.565,60.235,0l56.793,56.793C782.524,529.146,782.524,556.252,765.96,572.817z"/>
-			
-				<circle fill="#FFFFFF" stroke="#40DD92" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="679.049" cy="542.699" r="45.518"/>
+				
+				<g>
+					<circle fill="#FFFFFF" stroke="#40DD92" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="679.049" cy="542.699" r="45.518"/>
+				</g>
 			
 				<circle fill="#FFFFFF" stroke="#40DD92" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="679.049" cy="469.948" r="10.662"/>
 			<animate id="appearFollower5"
@@ -144,7 +136,9 @@
 				M1044.688,574.237l-53.952,53.952c-17.346,17.346-45.731,17.346-63.077,0l-53.952-53.952c-17.346-17.346-17.346-45.731,0-63.077
 				l53.952-53.952c17.346-17.346,45.731-17.346,63.077,0l53.952,53.952C1062.034,528.507,1062.034,556.891,1044.688,574.237z"/>
 			
-				<circle fill="#FFFFFF" stroke="#40DD92" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="959.198" cy="542.699" r="45.518"/>
+				<g>
+					<circle fill="#FFFFFF" stroke="#40DD92" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="959.198" cy="542.699" r="45.518"/>
+				</g>
 			
 				<circle fill="#FFFFFF" stroke="#40DD92" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="959.198" cy="469.948" r="10.662"/>
 			<animate id="appearFollower4"
@@ -184,7 +178,9 @@
 				M1322.078,576.997l-48.433,48.433c-18.864,18.864-49.732,18.864-68.596,0l-48.433-48.433c-18.864-18.864-18.864-49.732,0-68.596
 				l48.433-48.433c18.864-18.864,49.732-18.864,68.596,0l48.433,48.433C1340.942,527.265,1340.942,558.133,1322.078,576.997z"/>
 			
-				<circle fill="#FFFFFF" stroke="#40DD92" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="1239.347" cy="542.699" r="45.518"/>
+				<g>
+					<circle fill="#FFFFFF" stroke="#40DD92" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="1239.347" cy="542.699" r="45.518"/>
+				</g>
 			
 				<circle fill="#FFFFFF" stroke="#40DD92" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="1239.347" cy="469.948" r="10.662"/>
 			<animate id="appearFollower3"
@@ -224,7 +220,9 @@
 				M1601.416,577.809l-46.81,46.81c-19.31,19.31-50.909,19.31-70.219,0l-46.81-46.81c-19.31-19.31-19.31-50.909,0-70.219
 				l46.81-46.81c19.31-19.31,50.909-19.31,70.219,0l46.81,46.81C1620.726,526.9,1620.726,558.498,1601.416,577.809z"/>
 			
-				<circle fill="#FFFFFF" stroke="#40DD92" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="1519.497" cy="542.699" r="45.518"/>
+				<g>
+					<circle fill="#FFFFFF" stroke="#40DD92" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="1519.497" cy="542.699" r="45.518"/>
+				</g>
 			
 				<circle fill="#FFFFFF" stroke="#40DD92" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="1519.497" cy="469.948" r="10.662"/>
 			<animate id="appearFollower2"
@@ -264,7 +262,9 @@
 				M1880.449,578.925l-44.577,44.577c-19.924,19.924-52.528,19.924-72.452,0l-44.577-44.577c-19.924-19.924-19.924-52.528,0-72.452
 				l44.577-44.577c19.924-19.924,52.528-19.924,72.452,0l44.577,44.577C1900.373,526.397,1900.373,559.001,1880.449,578.925z"/>
 			
-				<circle fill="#FFFFFF" stroke="#40DD92" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="1799.646" cy="542.699" r="45.518"/>
+				<g>
+					<circle fill="#FFFFFF" stroke="#40DD92" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="1799.646" cy="542.699" r="45.518"/>
+				</g>
 			
 				<circle fill="#FFFFFF" stroke="#40DD92" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="1799.646" cy="469.948" r="10.662"/>
 			<animate id="appearFollower1"
