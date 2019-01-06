@@ -20,7 +20,7 @@ body {
 PRE LOADER 
 ==========================================*/
 
-.preloader {
+/*.preloader {
     position: fixed;
     top: 0;
     left: 0;
@@ -31,9 +31,9 @@ PRE LOADER
     height: 100%;
     width: 100%;
     overflow: hidden !important;
-}
+}*/
 
-.loaded {
+/*.loaded {
     width: 60px;
     height: 60px;
     position: absolute;
@@ -45,7 +45,7 @@ PRE LOADER
     -moz-background-size: cover;
     background-size: cover;
     margin: -20px 0 0 -20px;
-}
+}*/
 .top-margin {
 	margin-top: 96px;
 }
