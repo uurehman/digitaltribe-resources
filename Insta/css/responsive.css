@@ -1,9 +1,13 @@
 
 /* responsive css*/
 
-@media (min-width:992px) and (max-width:1199px) {
+@media (min-width:992px) {
 
-
+.bg-lines{
+	background: url(https://uurehman.github.io/digitaltribe-resources/Insta/images/bg.svg);
+	background-size: cover;
+	background-size: 110%;
+}
 
 	
 	
