@@ -170,7 +170,7 @@ a:hover{
     padding-top: 80px;
     padding-bottom: 80px;
     position: relative;
-    min-height: 80vh;
+    min-height: 660px;
 }
 .separetor{
 	background:url(../images/spr.png) no-repeat center center;
