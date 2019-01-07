@@ -1,0 +1,18 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 300">
+    <rect class="mouse" x="0" y="0" width="800" height="300"/>
+    <polygon class="blinkWithOp" points="400, 280, 310, 150, 400, 20, 490, 150"/>
+<style>
+	.blinkWithOp{
+		animation-name: blinkWithOpcity;
+		animation-duration: 4s;
+		animation-iteration-count: infinite;
+	}
+	@keyframes blinkWithOpcity {
+		0%   { opacity: 1; }
+		5%  { opacity: 0; }
+		50%  { opacity: 0; }
+		55% { opacity: 1; }
+		100% { opacity: 1; }
+	}
+</style>
+</svg>

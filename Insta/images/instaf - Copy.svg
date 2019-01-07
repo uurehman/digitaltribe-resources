@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1 Basic//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11-basic.dtd">
+<svg version="1.1" baseProfile="basic" id="Layer_1"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="213px" height="275px"
+	 viewBox="0 0 213 275" xml:space="preserve">
+<g>
+	<text id="swipeText" x="0" y="100">An SVG Animation</text>
+	<animate
+		id				= "fadeIn"
+		attributeName	= "opacity"
+		from			= "0"
+		to				= "1"
+		dur				= "2s"
+		fill			= "freeze"
+		xlink:href		= "#swipeText"
+		begin			="0s;fadeOut.end"
+	/>
+	<animate 
+		id				="fadeOut"
+		attributeName	="opacity"
+		from			="1"
+		to				="0"
+		dur				="2s" 
+		xlink:href		= "#swipeText"
+		begin			="fadeIn.end+2s"
+	/>
+</g>
+</svg>
