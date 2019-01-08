@@ -1,48 +1,19 @@
+$(document).ready(function(){
+    var bodyWidth = $('body').width();
+    var bglines = $('.bg-lines');
+    addPadding($(bglines));
+    new WOW().init();      
 
-jQuery(document).ready(function() {
-
-//<!-- =============================================== -->
-//<!-- ========== scrollTop.js ========== -->
-//<!-- =============================================== -->
-    
-    $(window).scroll(function(){
-        if ($(this).scrollTop() > 600) {
-            $('.scrollup').fadeIn('slow');
-        } else {
-            $('.scrollup').fadeOut('slow');
-        }
+    $(window).resize(function(){
+        addPadding($(bglines));
     });
-    $('.scrollup').click(function(){
-        $("html, body").animate({ scrollTop: 0 }, 800);
-        return false;
-    });
-			
-//<!-- =============================================== -->
-//<!-- ========== bootstrap scrollspy ========== -->
-//<!-- =============================================== -->
-    
-    
-    $('body').scrollspy({
-    	target: '.navbar',
-    	offset: 160
-    });
-
-//<!-- =============================================== -->
-//<!-- ========== navbardown.js ========== -->
-//<!-- =============================================== -->
-
-$('.nav a').bind('click', function () {
-    $('html , body').stop().animate({
-        scrollTop: $($(this).attr('href')).offset().top - 80
-    }, 1500, 'easeInOutExpo');
-    event.preventDefault();
-});			
-			
-			
-
- new WOW().init();
-
-
-		
-		
 });
+
+function addPadding($divClass) {
+    $bodyWidth = $('body').width();
+    $padLeft = 0;
+    if ($bodyWidth > 1280) {
+        $padLeft = ($bodyWidth - 1280);
+        $divClass.css("margin-left", $padLeft);
+    }
+}

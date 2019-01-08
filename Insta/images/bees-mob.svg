@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="1274.638px" height="2248.024px" viewBox="0 0 1274.638 2248.024" enable-background="new 0 0 1274.638 2248.024"
 	 xml:space="preserve">
 <g id="Comments">
+	<g id="lines">
+		<path fill="none" stroke="#40DD92" stroke-width="10" stroke-miterlimit="10" d="M528.898,1480.225
+			c-9.82,250.592-30.254,488.747,186.843,668.364"/>
+		<path fill="none" stroke="#40DD92" stroke-width="10" stroke-miterlimit="10" d="M1200.685,319.277
+			c-792-744-1477.116,53.448-1056,324c389.783,250.422,392.464,553.847,381.214,840.948"/>
+	</g>
 	<g id="patel-6">
 		<g>
 			<path fill="#FFD000" d="M949.154,2188.653c-11.503-15.192-97.756-106.602-134.745-95.593
@@ -14,7 +19,7 @@
 				c1.212,4.938,5.057,8.801,9.99,10.035l51.778,12.956c2.99,0.748,6.145,0.467,8.955-0.797c0,0,68.221-15.363,101.021-34.542
 				C859.746,2146.013,827.172,2122.056,827.172,2122.056z"/>
 			<path fill="#1DF288" stroke="#1DF288" stroke-width="1.2" stroke-miterlimit="10" d="M849.492,2092.182
-				c0,0-116.554-48.19-141.409,45.997s82.528,112.789,115.311,106.951c0,0,11.508-50.293-65.636-90.867
+				c0,0-116.554-48.19-141.409,45.997c-24.855,94.187,82.528,112.789,115.311,106.951c0,0,11.508-50.293-65.636-90.867
 				C757.758,2154.262,828.745,2150.164,849.492,2092.182z"/>
 			<path fill="#00FFFF" stroke="#00FFFF" stroke-width="2.5" stroke-miterlimit="10" d="M849.756,2091.835
 				c0,0-8.914-7.519-40.683-9.392c0,0-21.961,55.954-90.098,65.708c0,0,59.555,33.843,63.613,93.816c0,0,26.177,9.057,40.031,5.023
@@ -47,7 +52,7 @@
 				l51.85,17.218c5.181,1.72,10.888,0.433,14.829-3.345l35.24-33.787c3.94-3.778,5.467-9.426,3.966-14.675l-15.754-55.092
 				c-0.91-3.181-2.864-5.963-5.549-7.897c0,0-50.91-55.175-86.35-75.371C227.799,636.108,223.015,679.253,223.015,679.253z"/>
 			<path fill="#1DF288" stroke="#1DF288" stroke-width="1.2" stroke-miterlimit="10" d="M183.259,674.542
-				c0,0,17.776,134.23,118.683,106.769s60.548-137.279,37.52-164.622c0,0-52.935,16.303-49.237,109.806
+				c0,0,17.776,134.23,118.683,106.769c100.907-27.461,60.548-137.279,37.52-164.622c0,0-52.935,16.303-49.237,109.806
 				C290.224,726.494,248.303,662.7,183.259,674.542z"/>
 			<path fill="#00FFFF" stroke="#00FFFF" stroke-width="2.5" stroke-miterlimit="10" d="M182.795,674.482
 				c0,0-2.205,12.324,13.111,42.865c0,0,63.81-9.625,109.459,48.484c0,0-0.512-73.537,53.065-109.508
@@ -56,7 +61,7 @@
 	</g>
 	<g id="patel-3">
 		<g>
-			<path fill="#FFD000" d="M211.083,35.667c-14.453,3.698-106.58,38.255-109.843,68.293c-5.185,47.721,52.634,84.431,94.595,60.061
+			<path fill="#FFD000" d="M211.083,35.667C196.63,39.365,104.503,73.922,101.24,103.96c-5.185,47.721,52.634,84.431,94.595,60.061
 				C221.112,149.341,212.95,35.189,211.083,35.667z"/>
 			<path fill="#FFAA00" d="M126.039,103.534c-1.99,0.709-3.666,3.269-4.932,4.959l-30.92,30.405
 				c-2.126,2.84-2.712,6.546-1.567,9.903l12.871,37.706c1.286,3.768,4.551,6.514,8.483,7.136l35.165,5.562
@@ -72,8 +77,8 @@
 	</g>
 	<g id="patel-2">
 		<g>
-			<path fill="#FFD000" d="M797.062,195.888c1.378-16.595-1.079-126.358-30.672-140.693
-				c-47.015-22.775-105.275,24.939-95.318,78.062C677.069,165.258,796.884,198.033,797.062,195.888z"/>
+			<path fill="#FFD000" d="M797.062,195.888c1.378-16.595-1.079-126.358-30.672-140.693c-47.015-22.775-105.275,24.939-95.318,78.062
+				C677.069,165.258,796.884,198.033,797.062,195.888z"/>
 			<path fill="#FFAA00" d="M757.962,81.523c-0.014-2.357-2.037-5.055-3.316-7.004l-20.084-43.658
 				c-2.148-3.274-5.734-5.236-9.581-5.244l-43.214-0.087c-4.318-0.009-8.298,2.442-10.34,6.366l-18.266,35.097
 				c-2.042,3.925-1.812,8.679,0.598,12.353l25.301,38.561c1.461,2.227,3.611,3.878,6.103,4.689c0,0,51.771,29.662,83.365,36.234
@@ -100,6 +105,16 @@
 				c0,0-0.112-7.146-12.031-22.582c0,0-34.698,12.367-66.625-15.199c0,0,8.325,41.144-17.76,67.153c0,0,6.348,15.743,13.788,20.522
 				c0,0,36.616-22.3,19.32-61.167C1194.848,328.528,1221.899,359.861,1258.157,339.8z"/>
 		</g>
+		<!-- <animateTransform 
+			attributeName="transform" 
+			attributeType="XML"
+			type="scale" 
+			from="0 0" 
+			to="1 1"
+			begin="1s" 
+			dur="2s" 
+			fill="freeze" 
+			repeatCount="indefinite" /> -->
 	</g>
 	<g id="bee-1">
 		<g>
@@ -112,13 +127,19 @@
 			<path fill="#FFD000" d="M317.769,1180.723c0,0,41.323-31.096,104.443-41.176c0,0-3.661-19.883-21.622-36.407
 				c0,0-43.027,2.737-91.662,36.137C308.929,1139.277,306.205,1157.593,317.769,1180.723z"/>
 			
-				<ellipse transform="matrix(-0.7828 -0.6223 0.6223 -0.7828 -176.1924 2296.4626)" fill="#FFFFFF" stroke="#FFD000" stroke-width="3" stroke-miterlimit="10" cx="312.699" cy="1178.982" rx="59.687" ry="11.478"/>
-			
-				<ellipse transform="matrix(-0.1475 0.9891 -0.9891 -0.1475 1608.0221 882.6296)" fill="#FFFFFF" stroke="#FFD000" stroke-width="3" stroke-miterlimit="10" cx="423.627" cy="1134.318" rx="59.688" ry="11.478"/>
-		</g>
+			<ellipse transform="matrix(0.6223 -0.7828 0.7828 0.6223 -804.7806 690.0775)" fill="#FFFFFF" stroke="#FFD000" stroke-width="3" stroke-miterlimit="10" cx="312.683" cy="1178.969" rx="11.478" ry="59.686"/>
 		
-			<animateTransform  type="translate" fill="remove" attributeType="XML" repeatCount="indefinite" additive="replace" accumulate="none" restart="always" dur="4s" begin="0.5" attributeName="transform" calcMode="linear" values="0,0; -35,-25; 40,-25; 32,20; -35,0; 0,0;">
-			</animateTransform>
+			<ellipse transform="matrix(-0.9891 -0.1475 0.1475 -0.9891 675.361 2318.7998)" fill="#FFFFFF" stroke="#FFD000" stroke-width="3" stroke-miterlimit="10" cx="423.669" cy="1134.355" rx="11.478" ry="59.686"/>
+		</g>
+		<animateTransform
+			attributeName="transform"
+			attributeType="XML"
+			type="translate"
+			values="0,0; -35,-25; 40,-25; 32,20; -35,0; 0,0;"
+			begin="0.5"
+			dur="4s"
+			repeatCount="indefinite"
+		/>
 	</g>
 	<g id="bee-2">
 		<g>
@@ -131,13 +152,19 @@
 			<path fill="#FFD000" d="M248.238,1363.267c0,0-27.848-63.127-21.776-148.188c0,0-26.941-1.282-53.863,17.033
 				c0,0-9.511,56.729,19.111,130.053C191.71,1362.166,214.678,1371.266,248.238,1363.267z"/>
 			
-				<ellipse transform="matrix(-0.7841 0.6206 -0.6206 -0.7841 1285.8247 2291.4106)" fill="#FFFFFF" stroke="#FFD000" stroke-width="3" stroke-miterlimit="10" cx="244.373" cy="1369.345" rx="79.628" ry="15.313"/>
-			
-				<ellipse transform="matrix(0.9295 0.3688 -0.3688 0.9295 462.3557 4.2054)" fill="#FFFFFF" stroke="#FFD000" stroke-width="3" stroke-miterlimit="10" cx="220.177" cy="1211.581" rx="79.629" ry="15.313"/>
-		</g>
+			<ellipse transform="matrix(-0.6206 -0.7841 0.7841 -0.6206 -677.6445 2410.8054)" fill="#FFFFFF" stroke="#FFD000" stroke-width="3" stroke-miterlimit="10" cx="244.415" cy="1369.343" rx="15.313" ry="79.63"/>
 		
-			<animateTransform  type="translate" fill="remove" attributeType="XML" repeatCount="indefinite" additive="replace" accumulate="none" restart="always" dur="4.5s" begin="0" attributeName="transform" calcMode="linear" values="0,0; -20,25; 25,20; 45,30; 25,10; 0,0;">
-			</animateTransform>
+			<ellipse transform="matrix(-0.3688 0.9295 -0.9295 -0.3688 1427.5638 1453.7836)" fill="#FFFFFF" stroke="#FFD000" stroke-width="3" stroke-miterlimit="10" cx="220.161" cy="1211.61" rx="15.313" ry="79.63"/>
+		</g>
+		<animateTransform
+			attributeName="transform"
+			attributeType="XML"
+			type="translate"
+			values="0,0; -20,25; 25,20; 45,30; 25,10; 0,0;"
+			begin="0"
+			dur="4.5s"
+			repeatCount="indefinite"
+		/>
 	</g>
 </g>
 </svg>
