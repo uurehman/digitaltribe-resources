@@ -3,6 +3,7 @@
 	.bg-lines{background: url(../images/bg.svg) #FFFDFD;background-size: cover;background-size: 110%;background-position: 0px 50px;width: 1280px;padding: 0px auto;}
 	.instaf-image{height: 150px;}
 	.mt-lg-5{margin-top:3rem;}
+	.single_abouts p{font-size: 14px;}
 }
 
 /*3:4 aspect ratio screens*/
