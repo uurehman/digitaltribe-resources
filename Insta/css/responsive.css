@@ -1,6 +1,6 @@
 /* responsive css*/
 @media (min-width:1200px) {
-	.bg-lines{background: url(../images/bg.svg) #FDFDFD;background-size: cover;background-size: 110%;background-position: 0px 50px;width: 1280px;padding: 0px auto;}
+	.bg-lines{background: url(../images/bg.svg) #FFFDFD;background-size: cover;background-size: 110%;background-position: 0px 50px;width: 1280px;padding: 0px auto;}
 	.instaf-image{height: 150px;}
 	.mt-lg-5{margin-top:3rem;}
 }
@@ -14,7 +14,6 @@
 
 /* Tab Screen Media */
 @media (min-width: 769px) and (max-width: 990px){
-	.bg-lines{background: #FDFDFD;}
 	.single_abouts h2{font-size: 25px;}
 	.single_abouts p{font-size: 18px;}
 	.instaf-image{height: 200px;}
@@ -24,7 +23,6 @@
 
 /* Mobile Phone Screen Media */
 @media (max-width: 768px){
-	.bg-lines{background: #FDFDFD;}
 	.single_abouts h2{font-size: 22px;}
 	.single_abouts p{font-size: 16px;}
 	.instaf-image{height: 160px;}
@@ -34,7 +32,6 @@
 
 /* Mobile Phone Screen Media */
 @media screen (min-width: 320px) and (max-width: 480px){
-	.bg-lines{background: #FDFDFD;}
 	.single_abouts h2{font-size: 14px;}
 	.single_abouts p{font-size: 10px;}
 	.instaf-image{height: 120px;}
@@ -42,6 +39,7 @@
 }
 
 @media (max-width: 990px){
+	.bg-lines{background: #FFFFFF;}
 	.single_abouts{text-align: center;}
 	.section-description{text-align:center;}
 	.mt-lg-5{margin-top:0px;}
