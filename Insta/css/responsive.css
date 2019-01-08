@@ -8,6 +8,8 @@
 /*3:4 aspect ratio screens*/
 @media (min-width: 991px) and (max-width: 1199px){
 	.phone-patels-image{display: none;}
+	.bees-image{display: none;}
+	.bees-image-mob{display: block;}
 }
 
 /* Tab Screen Media */
