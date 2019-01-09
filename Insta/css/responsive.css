@@ -3,7 +3,6 @@
 	.bg-lines{background: url(../images/bg.svg) #FFFFFF;background-size: cover;background-size: 110%;background-position: 0px 50px;width: 1280px;padding: 0px auto;}
 	.instaf-image{height: 150px;}
 	.mt-lg-5{margin-top:3rem;}
-	.single_abouts p{font-size: 20px; line-height: 1.2;}
 	.bees-image{margin-bottom: 200px;}
 }
 
@@ -33,7 +32,6 @@
 /* Mobile Phone Screen Media */
 @media screen (min-width: 320px) and (max-width: 480px){
 	.single_abouts h2{font-size: 14px;}
-	.single_abouts p{font-size: 12px;}
 	.instaf-image{height: 120px;}
 
 }
@@ -47,5 +45,4 @@
 	.phone-patels-image{display: none;}
 	.bees-image{display: none;}
 	.bees-image-mob{height: 400px;}
-	.single_abouts p{font-size: 20px; line-height: 1.3;}
 }
