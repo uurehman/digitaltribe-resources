@@ -283,3 +283,6 @@ img.digital-tribe-big-icon {
 
 
 .single_abouts p{font-size: 18px; line-height: 1.85em;}
+.single_abouts h2{
+	text-transform: none;
+}
