@@ -4,6 +4,8 @@
 	.instaf-image{height: 150px;}
 	.mt-lg-5{margin-top:3rem;}
 	.bees-image{margin-bottom: 200px;}
+	.not-lg-only{display: none;}
+	.lg-only{display: block;}
 }
 
 /*3:4 aspect ratio screens*/
@@ -11,6 +13,8 @@
 	.phone-patels-image{display: none;}
 	.bees-image{display: none;}
 	.bees-image-mob{display: block;}
+	.not-lg-only{display: none;}
+	.lg-only{display: block;}
 }
 
 /* Tab Screen Media */
@@ -45,4 +49,6 @@
 	.phone-patels-image{display: none;}
 	.bees-image{display: none;}
 	.bees-image-mob{height: 400px;}
+	.not-lg-only{display: block;}
+	.lg-only{display: none;}
 }
