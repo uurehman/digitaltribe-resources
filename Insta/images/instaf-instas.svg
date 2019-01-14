@@ -107,7 +107,7 @@
 			 attributeName="transform"
 			 type="translate"
 			 values="0,0; 0,-100; 0,0;"
-			 dur="1.8s"
+			 dur="1.2s"
 			 begin="appearFollower5.end" />
 		</g>
 		<g id="instaf-4">
@@ -149,7 +149,7 @@
 			 attributeName="transform"
 			 type="translate"
 			 values="0,0; 0,-100; 0,0;"
-			 dur="1.5s"
+			 dur="1.2s"
 			 begin="appearFollower4.end" />
 		</g>
 		<g id="instaf-3">
@@ -191,7 +191,7 @@
 			 attributeName="transform"
 			 type="translate"
 			 values="0,0; 0,-100; 0,0;"
-			 dur="1.9s"
+			 dur="1.2s"
 			 begin="appearFollower3.end" />
 		</g>
 		<g id="instaf-2">
@@ -233,7 +233,7 @@
 			 attributeName="transform"
 			 type="translate"
 			 values="0,0; 0,-100; 0,0;"
-			 dur="2s"
+			 dur="1.2s"
 			 begin="appearFollower2.end" />
 		</g>
 		<g id="instaf-1">
@@ -275,7 +275,7 @@
 			 attributeName="transform"
 			 type="translate"
 			 values="0,0; 0,-100; 0,0;"
-			 dur="1.7s"
+			 dur="1.2s"
 			 begin="appearFollower1.end" />
 		</g>
 	</g>
