@@ -275,7 +275,7 @@ img.digital-tribe-big-icon {
 }
 
 /*SVG Images*/ 
-.instaf-image{}
+.instaf-image{margin: 40px 0 0 -30px;}
 .hand-image{height: 480px;margin:-40px 0px 0px 20px;}
 .phone-patels-image{height: 335px; margin: -53px -155px 0 0;}
 .bees-image{height: 320px; margin: 60px 0 0 210px;}
