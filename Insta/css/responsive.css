@@ -20,7 +20,6 @@
 /* Tab Screen Media */
 @media (min-width: 769px) and (max-width: 990px){
 	.single_abouts h2{font-size: 25px;}
-	.instaf-image{height: 200px;}
 	
 
 }
@@ -28,7 +27,6 @@
 /* Mobile Phone Screen Media */
 @media (max-width: 768px){
 	.single_abouts h2{font-size: 22px;}
-	.instaf-image{height: 160px;}
 	
 
 } 
@@ -36,7 +34,6 @@
 /* Mobile Phone Screen Media */
 @media screen (min-width: 320px) and (max-width: 480px){
 	.single_abouts h2{font-size: 14px;}
-	.instaf-image{height: 120px;}
 
 }
 
@@ -45,10 +42,12 @@
 	.single_abouts{text-align: center;}
 	.section-description{text-align:center;}
 	.mt-lg-5{margin-top:0px;}
-	.hand-image{margin: 0;height: 420px;}
+	.instaf-image{height: 120px;margin-top: 10px;}
+	.hand-image{margin-top: 10px;height: 250px;}
 	.phone-patels-image{display: none;}
+	.phone-patels-image-mob{height: 250px;margin-top: 10px;}
 	.bees-image{display: none;}
-	.bees-image-mob{height: 400px;}
+	.bees-image-mob{height: 200px; margin: 10px;}
 	.not-lg-only{display: block;}
 	.lg-only{display: none;}
 }
