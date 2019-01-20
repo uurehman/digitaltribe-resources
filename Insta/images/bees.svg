@@ -212,7 +212,7 @@
 			</g>
 		</g>
 	</g>
-	<g>
+	<g id="bee-1_1_">
 		<path fill="#FDA803" stroke="#FDA803" stroke-miterlimit="10" d="M420.146,1132.879c-14.882-37.748-50.377-59.111-79.275-47.718
 			c-28.906,11.396-40.272,51.233-25.39,88.982c10.748,27.261,32.244,45.982,54.245,49.976c0.186,0.618,0.406,1.238,0.647,1.851
 			c4.901,12.431,18.95,18.54,31.388,13.637c12.431-4.901,18.538-18.957,13.637-31.388c-0.241-0.612-0.504-1.216-0.79-1.794
@@ -225,8 +225,10 @@
 			<ellipse transform="matrix(0.6223 -0.7828 0.7828 0.6223 -804.2373 689.8522)" fill="#FFFFFF" stroke="#FFCF00" stroke-width="3" stroke-miterlimit="10" cx="312.721" cy="1178.294" rx="11.481" ry="59.699"/>
 		
 			<ellipse transform="matrix(-0.9891 -0.1475 0.1475 -0.9891 675.5845 2317.446)" fill="#FFFFFF" stroke="#FFCF00" stroke-width="3" stroke-miterlimit="10" cx="423.73" cy="1133.67" rx="11.481" ry="59.699"/>
+		<animateTransform  type="translate" fill="remove" attributeType="XML" repeatCount="indefinite" additive="replace" accumulate="none" restart="always" dur="4s" begin="0.5" attributeName="transform" calcMode="linear" values="0,0; -35,-25; 40,-25; 32,20; -35,0; 0,0;">
+		</animateTransform>
 	</g>
-	<g>
+	<g id="bee-2_1_">
 		<path fill="#FDA803" stroke="#FDA803" stroke-miterlimit="10" d="M218.063,1215.358c-53.559,7.87-92.09,47.495-86.065,88.497
 			c6.027,41.012,54.329,67.877,107.887,60.006c38.679-5.684,69.528-27.926,81.398-55.294c0.859-0.054,1.732-0.151,2.601-0.279
 			c17.637-2.592,29.841-18.987,27.247-36.635c-2.592-17.638-18.997-29.839-36.635-27.248c-0.869,0.128-1.733,0.286-2.571,0.481
@@ -239,6 +241,8 @@
 			<ellipse transform="matrix(-0.6206 -0.7841 0.7841 -0.6206 -677.1082 2409.7947)" fill="#FFFFFF" stroke="#FFCF00" stroke-width="3" stroke-miterlimit="10" cx="244.439" cy="1368.708" rx="15.317" ry="79.647"/>
 		
 			<ellipse transform="matrix(-0.3688 0.9295 -0.9295 -0.3688 1426.9674 1452.8513)" fill="#FFFFFF" stroke="#FFCF00" stroke-width="3" stroke-miterlimit="10" cx="220.179" cy="1210.942" rx="15.317" ry="79.647"/>
+		<animateTransform  type="translate" fill="remove" attributeType="XML" repeatCount="indefinite" additive="replace" accumulate="none" restart="always" dur="4.5s" begin="0" attributeName="transform" calcMode="linear" values="0,0; -20,25; 25,20; 45,30; 25,10; 0,0;">
+		</animateTransform>
 	</g>
 </g>
 </svg>
