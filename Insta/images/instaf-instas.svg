@@ -107,7 +107,7 @@
 			 attributeName="transform"
 			 type="translate"
 			 values="0,0; 0,-100; 0,0;"
-			 dur="1.2s"
+			 dur="2.3s"
 			 begin="appearFollower5.end" />
 		</g>
 		<g id="instaf-4">
@@ -144,12 +144,12 @@
 			<animate id="appearFollower4"
 			 attributeName="opacity"
 			 from="0" to="1" dur="0.01s"
-			 begin="1.5s;jumpFollower4.end" />
+			 begin="2s;jumpFollower4.end" />
 			<animateTransform id="jumpFollower4"
 			 attributeName="transform"
 			 type="translate"
 			 values="0,0; 0,-100; 0,0;"
-			 dur="1.2s"
+			 dur="2.3s"
 			 begin="appearFollower4.end" />
 		</g>
 		<g id="instaf-3">
@@ -186,12 +186,12 @@
 			<animate id="appearFollower3"
 			 attributeName="opacity"
 			 from="0" to="1" dur="0.01s"
-			 begin="3s;jumpFollower3.end" />
+			 begin="4s;jumpFollower3.end" />
 			<animateTransform id="jumpFollower3"
 			 attributeName="transform"
 			 type="translate"
 			 values="0,0; 0,-100; 0,0;"
-			 dur="1.2s"
+			 dur="2.3s"
 			 begin="appearFollower3.end" />
 		</g>
 		<g id="instaf-2">
@@ -228,12 +228,12 @@
 			<animate id="appearFollower2"
 			 attributeName="opacity"
 			 from="0" to="1" dur="0.01s"
-			 begin="4.5s;jumpFollower2.end" />
+			 begin="6s;jumpFollower2.end" />
 			<animateTransform id="jumpFollower2"
 			 attributeName="transform"
 			 type="translate"
 			 values="0,0; 0,-100; 0,0;"
-			 dur="1.2s"
+			 dur="2.3s"
 			 begin="appearFollower2.end" />
 		</g>
 		<g id="instaf-1">
@@ -270,12 +270,12 @@
 			<animate id="appearFollower1"
 			 attributeName="opacity"
 			 from="0" to="1" dur="0.01s"
-			 begin="6s;jumpFollower1.end" />
+			 begin="8s;jumpFollower1.end" />
 			<animateTransform id="jumpFollower1"
 			 attributeName="transform"
 			 type="translate"
 			 values="0,0; 0,-100; 0,0;"
-			 dur="1.2s"
+			 dur="2.3s"
 			 begin="appearFollower1.end" />
 		</g>
 	</g>
