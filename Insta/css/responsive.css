@@ -39,6 +39,7 @@
 
 @media (max-width: 990px){
 	.mob-padding{padding: 50px 20px 0px 20px !important;}
+	.get-started-mob-resposive{padding-top: 160px;}
 	.awenawe{margin-top: 7rem!important;}
 	.make-a-call-btn{margin-top: 10px;}
 	.bg-lines{background: #FFFFFF;}
