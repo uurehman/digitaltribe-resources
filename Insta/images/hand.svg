@@ -325,7 +325,7 @@
 					<line fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="918.001" y1="2199.261" x2="1301.408" y2="2199.261"/>
 			</g>
 		</g>
-		<g id="hand1">
+		<g id="hand1" class="blinkWithOp">
 			
 				<path fill="#99FFCC" stroke="#40DD92" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
 				M1553.494,1331.843v624.225c0,10.599-0.301,21.119-0.903,31.544v0.048c-14.829,256.962-209.131,460.342-446.669,460.342
@@ -387,6 +387,20 @@
 				<circle fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="1107.157" cy="2093.384" r="91.891"/>
 			
 				<circle fill="none" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="1107.506" cy="1943.393" r="22.181"/>
+		<style>
+			.blinkWithOp{
+				animation-name: blinkWithOpcity;
+				animation-duration: 4s;
+				animation-iteration-count: infinite;
+			}
+			@keyframes blinkWithOpcity {
+				0%   { opacity: 1; }
+				2%  { opacity: 0; }
+				50%  { opacity: 0; }
+				52% { opacity: 1; }
+				100% { opacity: 1; }
+			}
+		</style>
 		</g>
 	</g>
 </g>

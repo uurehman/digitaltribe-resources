@@ -193,7 +193,7 @@
 	}
 	#petal-3{
 		animation-name: blinkWithOpcity;
-		animation-duration: 2s;
+		animation-duration: 6s;
 		animation-iteration-count: infinite;
 	}
 	#petal-4{
@@ -203,11 +203,11 @@
 	}
 	@keyframes blinkWithOpcity {
 		0%   { opacity: 1; }
-		5%  { opacity: 0; }
-		10%  { opacity: 1; }
+		3%  { opacity: 0; }
+		6%  { opacity: 1; }
 		50% { opacity: 1; }
-		55% { opacity: 0; }
-		60% { opacity: 1; }
+		53% { opacity: 0; }
+		56% { opacity: 1; }
 		100% { opacity: 1; }
 	}
 </style>
