@@ -1,11 +1,12 @@
 /* responsive css*/
 @media (min-width:1200px) {
-	.bg-lines{background: url(../images/bg.svg) #FFFFFF;background-size: cover;background-size: 110%;background-position: 0px 50px;width: 1280px;padding: 0px auto;}
+	.bg-lines{background: url(../images/bg.svg) #FFFFFF;background-size: cover;background-size: 110%;background-position: 0px 50px;width: 1280px;padding: 0px auto; margin-top: -8em;}
 	.instaf-image{height: 120px;}
 	.mt-lg-5{margin-top:3rem;}
 	.bees-image{margin-bottom: 60px;}
 	.not-lg-only{display: none;}
 	.lg-only{display: block;}
+	.mobile-svg{height: 320px;}
 }
 
 /*3:4 aspect ratio screens*/
@@ -15,32 +16,13 @@
 	.bees-image-mob{display: block;}
 	.not-lg-only{display: none;}
 	.lg-only{display: block;}
-}
-
-/* Tab Screen Media */
-@media (min-width: 769px) and (max-width: 990px){
-	.single_abouts h2{font-size: 25px;}
-	
-
-}
-
-/* Mobile Phone Screen Media */
-@media (max-width: 768px){
-	.single_abouts h2{font-size: 22px;}
-	
-
-} 
-
-/* Mobile Phone Screen Media */
-@media screen (min-width: 320px) and (max-width: 480px){
-	.single_abouts h2{font-size: 14px;}
-
+	.mobile-svg{height: 320px;}
 }
 
 @media (max-width: 990px){
 	.mob-padding{padding: 50px 20px 0px 20px !important;}
 	.get-started-mob-resposive{padding-top: 160px;}
-	.awenawe{margin-top: 7rem!important;}
+	.awenawe{margin-top: 8rem!important;}
 	.make-a-call-btn{margin-top: 10px;}
 	.bg-lines{background: #FFFFFF;}
 	.single_abouts{text-align: center;}
@@ -54,4 +36,8 @@
 	.bees-image-mob{height: 200px; margin: 10px;}
 	.not-lg-only{display: block;}
 	.lg-only{display: none;}
+	.header-grad{margin-top: 150px; padding-top: 180px;}
+	.mobile-svg-div{margin-top: 0px;}
+	.mobile-svg{height: 480px;}
+
 }
