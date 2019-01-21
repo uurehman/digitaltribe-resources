@@ -38,6 +38,8 @@
 }
 
 @media (max-width: 990px){
+	.awenawe{margin-top: 7rem!important;}
+	.make-a-call-btn{margin-top: 10px;}
 	.bg-lines{background: #FFFFFF;}
 	.single_abouts{text-align: center;}
 	.section-description{text-align:center;}

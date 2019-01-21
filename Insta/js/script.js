@@ -24,7 +24,7 @@ function addPadding($divClass) {
 // PHONE SLIDER
 jssor_1_slider_init = function() {
     var jssor_1_SlideshowTransitions = [
-      {$Duration:1000,x:-0.2,$Delay:40,$Cols:12,$SlideOut:true,$Formation:$JssorSlideshowFormations$.$FormationStraight,$Assembly:260,$Easing:{$Left:$Jease$.$InOutExpo,$Opacity:$Jease$.$InOutQuad},$Opacity:2,$Outside:true,$Round:{$Top:0.5}}
+      { $Duration: 500, $Delay: 80, $Cols: 8, $Rows: 4, $Clip: 15, $SlideOut: true, $Easing: $Jease$.$OutQuad },
     ];
     var jssor_1_options = {
       $AutoPlay: 1,
