@@ -19,7 +19,7 @@ a:hover{text-decoration:none;}
 /*Header and fooder*/
 .make-a-call-btn{background: #FFCF00; color: #467071 !important; border-radius: 0px; border: none; animation-duration: 0.3s;font-weight: 450;}
 .make-a-call-btn:hover{background: linear-gradient(#FFCF00,  #F2AC3D) #FFCF00;}
-.footer-grad{background: linear-gradient(#377172, #00393B) #467071; padding: 20 0 60px 0; margin-bottom: 10px;}
+.footer-grad{background: linear-gradient(#377172, #00393B) #467071; padding: 30px; margin-bottom: 10px;}
 .ready-get-started{color: #FFFFFF; text-transform: none; font-size: 25px;font-weight: 400;}
 /*SVG Images*/ 
 .instaf-image{margin: 40px 0 0 -30px;}

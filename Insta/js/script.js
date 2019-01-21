@@ -15,11 +15,9 @@ function addPadding($divClass) {
     $padLeft = 0;
     if ($bodyWidth > 1280) {
         $padLeft = ($bodyWidth - 1280);
-        $divClass.css("margin-left", $padLeft);
     }
+    $divClass.css("margin-left", $padLeft);
 }
-
-
 
 // PHONE SLIDER
 jssor_1_slider_init = function() {
