@@ -33,6 +33,6 @@ a:hover{text-decoration:none;}
 .bees-image-mob{height: 390px;}
 
 /*Square space styles*/
-#container{max-width: 50000px;margin: 0;overflow: visible;}
-#container-content{padding: 85px 0px 0px 0px;}
-.col{padding-left: 0px}
+#container{max-width: 50000px !important;margin: 0px !important;overflow: visible !important;}
+#container-content{padding: 0px !important;}
+.col{padding-left: 0px !important;}
