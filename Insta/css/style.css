@@ -13,11 +13,7 @@ h6 {font-size: 18px;line-height: 20px;font-weight: 600;text-transform: uppercase
 ul{margin:0;padding:0;list-style:none;}
 a:hover{text-decoration:none;}
 .section-description{text-align:left;}
-.sections {
-    padding-top: 20px;
-    position: relative;
-    min-height: 340px;
-}
+.sections {padding-top: 20px;position: relative;min-height: 340px;}
 .single_abouts p{font-size: 18px; line-height: 1.85em;}
 .single_abouts h2{text-transform: none;}
 /*Header and fooder*/
