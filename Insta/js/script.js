@@ -1,12 +1,12 @@
 $(document).ready(function(){
-    // var bodyWidth = $('body').width();
-    // var bglines = $('.bg-lines');
-    // addPadding($(bglines));
+    var bodyWidth = $('body').width();
+    var bglines = $('.bg-lines');
+    addPadding($(bglines));
     new WOW().init();      
 
-    // $(window).resize(function(){
-        // addPadding($(bglines));
-    // });
+    $(window).resize(function(){
+        addPadding($(bglines));
+    });
     jssor_1_slider_init();
 });
 
