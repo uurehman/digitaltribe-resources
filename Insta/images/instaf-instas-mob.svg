@@ -2,7 +2,9 @@
 <!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="2017.833px" height="718px" viewBox="0 0 2017.833 718" enable-background="new 0 0 2017.833 718" xml:space="preserve">
+	 width="2017.833px" height="1040.239px" viewBox="0 -220.739 2017.833 1040.239"
+	 enable-background="new 0 -220.739 2017.833 1040.239" xml:space="preserve">
+<rect x="0" y="-220.739" fill="#FFFFFF" width="2017.833" height="1040.239"/>
 <g id="Followers">
 	<g>
 		<g id="instas">
@@ -102,7 +104,6 @@
 			</g>
 			
 				<circle fill="#FFFFFF" stroke="#40DD92" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="666.049" cy="469.948" r="10.662"/>
-			
 		</g>
 		<g id="insta4">
 			<g>
@@ -135,7 +136,6 @@
 			</g>
 			
 				<circle fill="#FFFFFF" stroke="#40DD92" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="976.198" cy="469.948" r="10.662"/>
-			
 		</g>
 		<g id="insta3">
 			<g>
@@ -168,7 +168,6 @@
 			</g>
 			
 				<circle fill="#FFFFFF" stroke="#40DD92" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="1287.347" cy="469.948" r="10.662"/>
-			
 		</g>
 		<g id="insta2">
 			<g>
@@ -201,7 +200,6 @@
 			</g>
 			
 				<circle fill="#FFFFFF" stroke="#40DD92" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="1597.689" cy="470.692" r="10.662"/>
-			
 		</g>
 		<g id="insta1">
 			<g>
@@ -233,69 +231,69 @@
 					<circle fill="#FFFFFF" stroke="#40DD92" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="1907.646" cy="542.699" r="45.518"/>
 			</g>
 			
-				<circle fill="#FFFFFF" stroke="#40DD92" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="1907.646" cy="469.948" r="10.662"/>		
+				<circle fill="#FFFFFF" stroke="#40DD92" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="1907.646" cy="469.948" r="10.662"/>
 		</g>
-		<style>
-			#insta5{
-				animation-name: jumpAndWait5;
-				animation-duration: 6s;
-				animation-iteration-count: infinite;
-			}
-			@keyframes jumpAndWait5 {
-				0%   { transform: translateY(0px); }
-				10%  { transform: translateY(-100px); }
-				20%  { transform: translateY(0px); }
-				100% { transform: translateY(0px); }
-			}
-
-			#insta4{
-				animation-name: jumpAndWait4;
-				animation-duration: 6s;
-				animation-iteration-count: infinite;
-			}
-			@keyframes jumpAndWait4 {
-				20%   { transform: translateY(0px); }
-				30%  { transform: translateY(-100px); }
-				40%  { transform: translateY(0px); }
-				100% { transform: translateY(0px); }
-			}
-
-			#insta3{
-				animation-name: jumpAndWait3;
-				animation-duration: 6s;
-				animation-iteration-count: infinite;
-			}
-			@keyframes jumpAndWait3 {
-				40%   { transform: translateY(0px); }
-				50%  { transform: translateY(-100px); }
-				60%  { transform: translateY(0px); }
-				100% { transform: translateY(0px); }
-			}
-
-			#insta2{
-				animation-name: jumpAndWait2;
-				animation-duration: 6s;
-				animation-iteration-count: infinite;
-			}
-			@keyframes jumpAndWait2 {
-				60%   { transform: translateY(0px); }
-				70%  { transform: translateY(-100px); }
-				80%  { transform: translateY(0px); }
-				100% { transform: translateY(0px); }
-			}
-
-			#insta1{
-				animation-name: jumpAndWait1;
-				animation-duration: 6s;
-				animation-iteration-count: infinite;
-			}
-			@keyframes jumpAndWait1 {
-				80%   { transform: translateY(0px); }
-				90%  { transform: translateY(-100px); }
-				100%  { transform: translateY(0px); }
-				100% { transform: translateY(0px); }
-			}
-		</style>
 	</g>
+	<style>
+		#insta5{
+			animation-name: jumpAndWait5;
+			animation-duration: 6s;
+			animation-iteration-count: infinite;
+		}
+		@keyframes jumpAndWait5 {
+			0%   { transform: translateY(0px); }
+			10%  { transform: translateY(-100px); }
+			20%  { transform: translateY(0px); }
+			100% { transform: translateY(0px); }
+		}
+
+		#insta4{
+			animation-name: jumpAndWait4;
+			animation-duration: 6s;
+			animation-iteration-count: infinite;
+		}
+		@keyframes jumpAndWait4 {
+			20%   { transform: translateY(0px); }
+			30%  { transform: translateY(-100px); }
+			40%  { transform: translateY(0px); }
+			100% { transform: translateY(0px); }
+		}
+
+		#insta3{
+			animation-name: jumpAndWait3;
+			animation-duration: 6s;
+			animation-iteration-count: infinite;
+		}
+		@keyframes jumpAndWait3 {
+			40%   { transform: translateY(0px); }
+			50%  { transform: translateY(-100px); }
+			60%  { transform: translateY(0px); }
+			100% { transform: translateY(0px); }
+		}
+
+		#insta2{
+			animation-name: jumpAndWait2;
+			animation-duration: 6s;
+			animation-iteration-count: infinite;
+		}
+		@keyframes jumpAndWait2 {
+			60%   { transform: translateY(0px); }
+			70%  { transform: translateY(-100px); }
+			80%  { transform: translateY(0px); }
+			100% { transform: translateY(0px); }
+		}
+
+		#insta1{
+			animation-name: jumpAndWait1;
+			animation-duration: 6s;
+			animation-iteration-count: infinite;
+		}
+		@keyframes jumpAndWait1 {
+			80%   { transform: translateY(0px); }
+			90%  { transform: translateY(-100px); }
+			100%  { transform: translateY(0px); }
+			100% { transform: translateY(0px); }
+		}
+	</style>
 </g>
 </svg>

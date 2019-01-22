@@ -35,12 +35,12 @@
 	.single_abouts h2{margin-top: 80px;}
 	.section-description{text-align:center;}
 	.mt-lg-5{margin-top:0px;}
-	.instaf-image{height: 120px;margin-top: 10px;}
-	.hand-image{margin-top: 10px;height: 250px;}
+	.instaf-image-mob{height: 180px;}
+	.hand-mob{height: 350px;}
 	.phone-patels-image{display: none;}
-	.phone-patels-image-mob{height: 250px;margin-top: 10px;}
+	.phone-patels-image-mob{height: 250px;margin-top: 30px;}
 	.bees-image{display: none;}
-	.bees-image-mob{height: 200px; margin: 10px;}
+	.bees-image-mob{height: 200px;}
 	.not-lg-only{display: block;}
 	.lg-only{display: none;}
 	.header-grad{margin-top: 200px; padding-top: 180px;}

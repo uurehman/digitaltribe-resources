@@ -21,7 +21,7 @@ a:hover{text-decoration:none;}
 .make-a-call-btn{background: #FFCF00; color: #467071 !important; border-radius: 0px; border: none; animation-duration: 0.3s;font-weight: 600; font-size: 14px; padding: 10px 15px;}
 .make-a-call-btn:hover{background: linear-gradient(#FFCF00,  #F2AC3D) #FFCF00;}
 .footer-grad{background: linear-gradient(to bottom right, #377172, #00393B) #467071; padding: 25px; margin-bottom: 10px;}
-.header-grad{padding: 40px; margin-top: 160px; position: absolute;}
+.header-grad{padding: 40px 1px; margin-top: 160px; position: absolute;}
 .ready-get-started{color: #FFFFFF; text-transform: none; font-size: 30px;font-weight: 450;}
 .ready-get-started-footer{font-size: 22px;}
 .mobile-svg-div{margin: 50px 60px 20px 60px; z-index: 222;}

@@ -2,8 +2,9 @@
 <!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="2336.364px" height="1905.662px" viewBox="0 0 2336.364 1905.662" enable-background="new 0 0 2336.364 1905.662"
+	 width="2336.364px" height="2120px" viewBox="0 -122.669 2336.364 2120" enable-background="new 0 -122.669 2336.364 2120"
 	 xml:space="preserve">
+<rect x="715.62" y="-122.669" fill="#FFFFFF" width="916.671" height="2120"/>
 <g>
 	
 		<rect id="back-col-2" x="754.056" y="152.5" fill="#EBFFF5" stroke="#40DD92" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="859" height="1582"/>
@@ -121,22 +122,6 @@
 					c0,0-25.47,5.883-22.915,31.696C46.521,1280.167,36.875,1256.844,12.042,1261.499z"/>
 			</g>
 		</g>
-		<style>
-			#patel_6_{
-				animation-name: blinkWithOpcity;
-				animation-duration: 4s;
-				animation-iteration-count: infinite;
-			}
-			@keyframes blinkWithOpcity {
-				0%   { opacity: 1; }
-				5%  { opacity: 0; }
-				10%  { opacity: 1; }
-				50% { opacity: 1; }
-				55% { opacity: 0; }
-				60% { opacity: 1; }
-				100% { opacity: 1; }
-			}
-		</style>
 	</g>
 	<g id="patel_5_">
 		<g>
@@ -154,23 +139,6 @@
 					c0,0-18.716,30.195,8.622,52.448C1160.068,416.266,1128.34,403.233,1109.05,431.638z"/>
 			</g>
 		</g>
-		
-		<style>
-			#patel_5_{
-				animation-name: blinkWithOpcity;
-				animation-duration: 3s;
-				animation-iteration-count: infinite;
-			}
-			@keyframes blinkWithOpcity {
-				0%   { opacity: 1; }
-				5%  { opacity: 0; }
-				10%  { opacity: 1; }
-				50% { opacity: 1; }
-				55% { opacity: 0; }
-				60% { opacity: 1; }
-				100% { opacity: 1; }
-			}
-		</style>
 	</g>
 	<g id="patel_3_">
 		<g>
@@ -189,23 +157,6 @@
 					c0,0,8.211,15.932,16.499,20.231c0,0,36.32-27.019,14.343-66.193C793.214,1340.824,824.711,1371.126,860.873,1346.497z"/>
 			</g>
 		</g>
-		
-		<style>
-			#patel_3_{
-				animation-name: blinkWithOpcity;
-				animation-duration: 3.5s;
-				animation-iteration-count: infinite;
-			}
-			@keyframes blinkWithOpcity {
-				0%   { opacity: 1; }
-				5%  { opacity: 0; }
-				10%  { opacity: 1; }
-				50% { opacity: 1; }
-				55% { opacity: 0; }
-				60% { opacity: 1; }
-				100% { opacity: 1; }
-			}
-		</style>
 	</g>
 	<g id="patel_2_">
 		<g>
@@ -224,23 +175,6 @@
 					c0,0,26.211-15.684,14.104-43.471C2281.819,347.808,2300.917,370.281,2326.86,356.191z"/>
 			</g>
 		</g>
-		
-		<style>
-			#patel_2_{
-				animation-name: blinkWithOpcity;
-				animation-duration: 3.8s;
-				animation-iteration-count: infinite;
-			}
-			@keyframes blinkWithOpcity {
-				0%   { opacity: 1; }
-				5%  { opacity: 0; }
-				10%  { opacity: 1; }
-				50% { opacity: 1; }
-				55% { opacity: 0; }
-				60% { opacity: 1; }
-				100% { opacity: 1; }
-			}
-		</style>
 	</g>
 	<g id="patel_1_">
 		<g>
@@ -258,23 +192,6 @@
 					c0,0,12.969,30.15,44.288,21.215C1871.663,668.505,1845.007,685.642,1856.317,715.28z"/>
 			</g>
 		</g>
-		
-		<style>
-			#patel_1_{
-				animation-name: blinkWithOpcity;
-				animation-duration: 3.2s;
-				animation-iteration-count: infinite;
-			}
-			@keyframes blinkWithOpcity {
-				0%   { opacity: 1; }
-				5%  { opacity: 0; }
-				10%  { opacity: 1; }
-				50% { opacity: 1; }
-				55% { opacity: 0; }
-				60% { opacity: 1; }
-				100% { opacity: 1; }
-			}
-		</style>
 	</g>
 	<g id="patel">
 		<g>
@@ -293,23 +210,6 @@
 					c0,0,0.322-37.329-36.374-42.386C1651.759,324.056,1687.362,318.437,1689.176,282.402z"/>
 			</g>
 		</g>
-		
-		<style>
-			#patel{
-				animation-name: blinkWithOpcity;
-				animation-duration: 3.3s;
-				animation-iteration-count: infinite;
-			}
-			@keyframes blinkWithOpcity {
-				0%   { opacity: 1; }
-				5%  { opacity: 0; }
-				10%  { opacity: 1; }
-				50% { opacity: 1; }
-				55% { opacity: 0; }
-				60% { opacity: 1; }
-				100% { opacity: 1; }
-			}
-		</style>
 	</g>
 </g>
 <g id="Alternate_hand">
