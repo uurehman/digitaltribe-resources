@@ -28,10 +28,11 @@
 @media (max-width: 990px){
 	.mob-padding{padding: 50px 20px 0px 20px !important;}
 	.get-started-mob-resposive{padding-top: 160px;}
-	.awenawe{margin-top: 8rem!important;}
+	.awenawe{margin-top: 6rem!important;}
 	.make-a-call-btn{margin-top: 10px;}
 	.bg-lines{background: #FFFFFF;}
 	.single_abouts{text-align: center;}
+	.single_abouts h2{margin-top: 80px;}
 	.section-description{text-align:center;}
 	.mt-lg-5{margin-top:0px;}
 	.instaf-image{height: 120px;margin-top: 10px;}
@@ -42,8 +43,8 @@
 	.bees-image-mob{height: 200px; margin: 10px;}
 	.not-lg-only{display: block;}
 	.lg-only{display: none;}
-	.header-grad{margin-top: 150px; padding-top: 180px;}
-	.mobile-svg-div{margin-top: 0px;}
+	.header-grad{margin-top: 200px; padding-top: 180px;}
+	.mobile-svg-div{margin-top: 50px;}
 	.mobile-svg{height: 480px;}
 
 }
