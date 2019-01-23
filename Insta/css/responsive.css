@@ -10,9 +10,6 @@
 	.lg-only{display: block;}
 	.mob-padding{padding-top: 30px;}
 	.mobile-svg{height: 320px;}
-	.insta-shot-slider{z-index: 555; position: absolute; margin: -492px 0px 0px -16px;width:55px;height:113px;}
-	.insta-shot-slides{width:55px;height:113px;transform: scale(0.292);}
-	.insta-shot-slides img{width:55px;height:113px;}
 
 }
 
