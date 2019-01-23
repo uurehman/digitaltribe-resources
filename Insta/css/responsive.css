@@ -3,6 +3,8 @@
 	.bg-lines{background: url(../images/bg.svg) #FFFFFF;background-size: cover;background-size: 110%;background-position: 0px 50px;width: 1280px;padding: 0px auto; margin-top: -8em;}
 	.instaf-image{height: 120px;}
 	.mt-lg-5{margin-top:3rem;}
+	.mt-minus-10{margin-top: -10px;}
+	.mt-75{margin-top: 75px;}
 	.bees-image{margin-bottom: 60px;}
 	.not-lg-only{display: none;}
 	.lg-only{display: block;}
@@ -22,7 +24,6 @@
 	.not-lg-only{display: none;}
 	.lg-only{display: block;}
 	.mobile-svg{height: 320px;}
-	.insta-shot-slider{z-index: 555; position: absolute; margin: -400px 0px 0px -16px;}
 
 }
 
@@ -44,8 +45,9 @@
 	.bees-image-mob{height: 200px;}
 	.not-lg-only{display: block;}
 	.lg-only{display: none;}
-	.header-grad{margin-top: 200px; padding-top: 180px;}
+	.header-grad{margin-top: 0px; padding: 400px 20px 40px 20px;}
 	.mobile-svg-div{margin-top: 50px;}
 	.mobile-svg{height: 480px;}
+	.ready-get-started{font-size: 34px;}
 
 }

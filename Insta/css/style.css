@@ -1,4 +1,6 @@
 body {color: #555555;-webkit-font-smoothing: antialiased;width: 100%;}
+*::selection {background: rgba(153, 255, 204, 0.3);}
+*::-moz-selection {background: rgba(153, 255, 204, 0.3);}
 .top-margin {margin-top: 96px;}
 .bottom-margin {margin-bottom: 96px;}
 img{max-width:100%;}
@@ -18,21 +20,19 @@ a:hover{text-decoration:none;}
 .single_abouts h2{text-transform: none;}
 
 /*Header and fooder*/
-.make-a-call-btn{background: #FFCF00; color: #467071 !important; border-radius: 0px; border: none; animation-duration: 0.3s;font-weight: 600; font-size: 14px; padding: 10px 15px;}
+.make-a-call-btn{background: #FFCF00; color: #467071 !important; border-radius: 0px; border: none; animation-duration: 0.3s;font-weight: 700; font-size: 16px; padding: 10px 15px;}
 .make-a-call-btn:hover{background: linear-gradient(#FFCF00,  #F2AC3D) #FFCF00;}
 .footer-grad{background: linear-gradient(to bottom right, #377172, #00393B) #467071; padding: 25px; margin-bottom: 10px;}
-.header-grad{padding: 40px 1px; margin-top: 160px; position: absolute;}
+.header-grad{padding: 40px 1px; margin-top: 180px; position: absolute;right: 0px;top: 0px;left: 0px;}
 .ready-get-started{color: #FFFFFF; text-transform: none; font-size: 30px;font-weight: 450;}
 .ready-get-started-footer{font-size: 22px;}
 .mobile-svg-div{margin: 50px 60px 20px 60px; z-index: 222;}
 .mobile-svg{ position: relative;top: 0px; left: 0px;}
-/*.insta-shot-slider{z-index: 555; position: absolute; margin: -492px 0px 0px -16px;}*/
-/*.insta-shot-slides{width:55px;height:113px;transform: scale(0.292);}*/
 
 
 /*SVG Images*/ 
 .instaf-image{margin: 40px 0 0 -30px;}
-.hand-image{height: 480px;margin:-40px 0px 0px 20px;}
+.hand-image{height: 480px;margin:-40px 0px 0px 18px;}
 .phone-patels-image{height: 317px; margin: -20px 0 0 -160px;}
 .bees-image{height: 320px; margin: -35px 0 0 210px;}
 .bees-image-mob{height: 390px;}
